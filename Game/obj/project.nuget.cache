@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SDMz8P6nrhZoqFfieBi3T/lveV3uBJv1v8xsyQdBQuQ42DeUqcL4NHCF0PaTxKhtpqXNho2bESVxK6bVXy57QA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bng07\\source\\repos\\Game\\Game\\Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bng07\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.31\\microsoft.windows.sdk.net.ref.10.0.22621.31.nupkg.sha512"
+  ],
+  "logs": []
+}

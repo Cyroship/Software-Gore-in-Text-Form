@@ -1,0 +1,17 @@
+C:\Users\bng07\source\repos\Game\Game\obj\Debug\net8.0-windows10.0.22621.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bng07\source\repos\Game\Game\obj\Debug\net8.0-windows10.0.22621.0\Game.AssemblyInfoInputs.cache
+C:\Users\bng07\source\repos\Game\Game\obj\Debug\net8.0-windows10.0.22621.0\Game.AssemblyInfo.cs
+C:\Users\bng07\source\repos\Game\Game\obj\Debug\net8.0-windows10.0.22621.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\bng07\source\repos\Game\Game\bin\Debug\net8.0-windows10.0.22621.0\Game.exe
+C:\Users\bng07\source\repos\Game\Game\bin\Debug\net8.0-windows10.0.22621.0\Game.deps.json
+C:\Users\bng07\source\repos\Game\Game\bin\Debug\net8.0-windows10.0.22621.0\Game.runtimeconfig.json
+C:\Users\bng07\source\repos\Game\Game\bin\Debug\net8.0-windows10.0.22621.0\Game.dll
+C:\Users\bng07\source\repos\Game\Game\bin\Debug\net8.0-windows10.0.22621.0\Game.pdb
+C:\Users\bng07\source\repos\Game\Game\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\bng07\source\repos\Game\Game\bin\Debug\net8.0-windows10.0.22621.0\WinRT.Runtime.dll
+C:\Users\bng07\source\repos\Game\Game\obj\Debug\net8.0-windows10.0.22621.0\Game.csproj.CopyComplete
+C:\Users\bng07\source\repos\Game\Game\obj\Debug\net8.0-windows10.0.22621.0\Game.dll
+C:\Users\bng07\source\repos\Game\Game\obj\Debug\net8.0-windows10.0.22621.0\refint\Game.dll
+C:\Users\bng07\source\repos\Game\Game\obj\Debug\net8.0-windows10.0.22621.0\Game.pdb
+C:\Users\bng07\source\repos\Game\Game\obj\Debug\net8.0-windows10.0.22621.0\Game.genruntimeconfig.cache
+C:\Users\bng07\source\repos\Game\Game\obj\Debug\net8.0-windows10.0.22621.0\ref\Game.dll
